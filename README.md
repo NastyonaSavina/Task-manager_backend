@@ -15,7 +15,7 @@
 <ul>
 	<li><a href="https://elenaods.github.io/goose_track/">Live Page</li>
 	<li><a href="https://github.com/ElenaOds/goose_track">FrontEnd code</li>
-	<li><a href="https://goose-track-backend.onrender.com/api-docs/">Backend Documentation</li>
+	<li><a href="https://task-manager-backend-0lj0.onrender.com/api-docs/">Backend Documentation</li>
 </ul>
 
 
