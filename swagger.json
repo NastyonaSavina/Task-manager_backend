@@ -12,7 +12,7 @@
   "produces": ["application/json"],
   "servers": [
     {
-      "url": "https://goose-track-backend.onrender.com"
+      "url": "https://task-manager-backend-0lj0.onrender.com"
     }
   ],
   "tags": [
